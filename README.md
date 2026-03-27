@@ -6,11 +6,11 @@ This repository contains details for a pipeline for vision-guided manipulation f
 
 
 <p align='center'>
-    <img src="images/vision_output.png" alt="drawing" width="500"/>
+    <img src="media/vision_output.png" alt="drawing" width="500"/>
 </p>
 
 The gif below shows a demonstration of the grasping framework on grasping an object in a **custom made Gazebo simulation** environment.
 
 <p align='center'>
-    <img src="images/grasping.gif" alt="drawing" width="500"/>
+    <img src="media/grasping.gif" alt="drawing" width="500"/>
 </p>
